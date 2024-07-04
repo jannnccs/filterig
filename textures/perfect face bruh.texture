@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "perfect face bruh",
+  "identifier": "texture:2946-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5c151069aa3956d0fbf7efbfb7d09a03",
+  "assetLocator": "textures/perfect face bruh.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5c151069aa3956d0fbf7efbfb7d09a03",
+      "colorCount": 29586,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 12.949177418215042,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

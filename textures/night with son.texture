@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "night with son",
+  "identifier": "texture:2950-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3e3a11fd1b72f7c30df820ec6f8f30b0",
+  "assetLocator": "textures/night with son.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3e3a11fd1b72f7c30df820ec6f8f30b0",
+      "colorCount": 61122,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 13.645316544277412,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

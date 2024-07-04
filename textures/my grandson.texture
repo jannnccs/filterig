@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "my grandson",
+  "identifier": "texture:2942-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4f234233cfcde8b6fd96ab8d288cde14",
+  "assetLocator": "textures/my grandson.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 768,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4f234233cfcde8b6fd96ab8d288cde14",
+      "colorCount": 13822,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.762379795951162,
+      "pixelsHigh": 768,
+      "pixelsWide": 1024
+    }
+  ]
+}

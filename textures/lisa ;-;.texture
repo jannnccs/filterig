@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "lisa ;-;",
+  "identifier": "texture:2958-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "89c2a9112230c22d1c6e6c068cda27d2",
+  "assetLocator": "textures/lisa ;-;.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "89c2a9112230c22d1c6e6c068cda27d2",
+      "colorCount": 79769,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 14.702738910837898,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

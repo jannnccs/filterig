@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "first time hospital",
+  "identifier": "texture:2954-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7ab4df2931d81e4becf05c6089b22653",
+  "assetLocator": "textures/first time hospital.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 768,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7ab4df2931d81e4becf05c6089b22653",
+      "colorCount": 47985,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 13.941727108671865,
+      "pixelsHigh": 768,
+      "pixelsWide": 1024
+    }
+  ]
+}
