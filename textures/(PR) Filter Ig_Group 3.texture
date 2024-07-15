@@ -1,10 +1,10 @@
 {
   "modelName": "texture",
-  "name": "first time hospital",
-  "identifier": "texture:2954-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "name": "(PR) Filter Ig_Group 3",
+  "identifier": "texture:1919-27867491-e860-45f4-bdb4-cef8712abc79",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "7ab4df2931d81e4becf05c6089b22653",
-  "assetLocator": "textures/first time hospital.jpg",
+  "assetDataHash": "1bddbcd53efd533c18e3ad6a968ec2ca",
+  "assetLocator": "textures/(PR) Filter Ig_Group 3.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
@@ -12,7 +12,7 @@
   "excludeFromPackage": false,
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
-  "height": 768,
+  "height": 787,
   "importIssues": {},
   "isExternalAsset": true,
   "smartTextureTargetSizeLimit": "largest",
@@ -24,12 +24,12 @@
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "7ab4df2931d81e4becf05c6089b22653",
-      "colorCount": 47985,
-      "detectedAlphaChannel": "no_alpha",
-      "detectedOriginalFormat": "jpeg",
-      "entropyOfDistribution": 13.941727108671865,
-      "pixelsHigh": 768,
+      "assetDataHash": "1bddbcd53efd533c18e3ad6a968ec2ca",
+      "colorCount": 57086,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.250104993950702,
+      "pixelsHigh": 787,
       "pixelsWide": 1024
     }
   ]

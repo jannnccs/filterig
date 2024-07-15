@@ -1,10 +1,10 @@
 {
   "modelName": "texture",
-  "name": "lisa ;-;",
-  "identifier": "texture:2958-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+  "name": "(PR) Filter Ig_Group 2",
+  "identifier": "texture:1923-27867491-e860-45f4-bdb4-cef8712abc79",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "89c2a9112230c22d1c6e6c068cda27d2",
-  "assetLocator": "textures/lisa ;-;.jpg",
+  "assetDataHash": "31f371af8ce028a7637e8b5640f1080e",
+  "assetLocator": "textures/(PR) Filter Ig_Group 2.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
@@ -12,25 +12,25 @@
   "excludeFromPackage": false,
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
-  "height": 1024,
+  "height": 787,
   "importIssues": {},
   "isExternalAsset": true,
   "smartTextureTargetSizeLimit": "largest",
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 768,
+  "width": 1024,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "89c2a9112230c22d1c6e6c068cda27d2",
-      "colorCount": 79769,
-      "detectedAlphaChannel": "no_alpha",
-      "detectedOriginalFormat": "jpeg",
-      "entropyOfDistribution": 14.702738910837898,
-      "pixelsHigh": 1024,
-      "pixelsWide": 768
+      "assetDataHash": "31f371af8ce028a7637e8b5640f1080e",
+      "colorCount": 131219,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 12.93155366385934,
+      "pixelsHigh": 787,
+      "pixelsWide": 1024
     }
   ]
 }

@@ -41,43 +41,47 @@
       "identifier": "textures:2429-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
       "children": [
         {
-          "sectionFileLocation": "textures/question.texture"
-        },
-        {
           "modelName": "sequenceTexture",
           "name": "animationSequence0",
           "identifier": "sequenceTexture:2830-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
           "isSourceTextureIdentifierEnabled": true,
-          "sourceTextureIdentifier": "textureGroup:2960-5cc77191-f8a6-4a33-8b5a-510c8887d5f1"
+          "sourceTextureIdentifier": "textureGroup:1925-27867491-e860-45f4-bdb4-cef8712abc79"
         },
         {
           "modelName": "textureGroup",
-          "name": "[1-5]",
-          "identifier": "textureGroup:2960-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
+          "name": "(PR) Filter Ig_Group [1-6]",
+          "identifier": "textureGroup:1925-27867491-e860-45f4-bdb4-cef8712abc79",
           "sequenceFramesTextureIdentifiers": [
-            "texture:2954-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
-            "texture:2958-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
-            "texture:2942-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
-            "texture:2950-5cc77191-f8a6-4a33-8b5a-510c8887d5f1",
-            "texture:2946-5cc77191-f8a6-4a33-8b5a-510c8887d5f1"
+            "texture:1903-27867491-e860-45f4-bdb4-cef8712abc79",
+            "texture:1923-27867491-e860-45f4-bdb4-cef8712abc79",
+            "texture:1919-27867491-e860-45f4-bdb4-cef8712abc79",
+            "texture:1915-27867491-e860-45f4-bdb4-cef8712abc79",
+            "texture:1911-27867491-e860-45f4-bdb4-cef8712abc79",
+            "texture:1907-27867491-e860-45f4-bdb4-cef8712abc79"
           ],
           "children": [
             {
-              "sectionFileLocation": "textures/first time hospital.texture"
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 1.texture"
             },
             {
-              "sectionFileLocation": "textures/lisa ;-;.texture"
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 2.texture"
             },
             {
-              "sectionFileLocation": "textures/my grandson.texture"
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 3.texture"
             },
             {
-              "sectionFileLocation": "textures/night with son.texture"
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 4.texture"
             },
             {
-              "sectionFileLocation": "textures/perfect face bruh.texture"
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 5.texture"
+            },
+            {
+              "sectionFileLocation": "textures/(PR) Filter Ig_Group 6.texture"
             }
           ]
+        },
+        {
+          "sectionFileLocation": "textures/(PR) Filter Ig_Thumbnail(1).texture"
         }
       ]
     },
